@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\bin\Debug\net6.0\Dados_Produto.exe
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\bin\Debug\net6.0\Dados_Produto.deps.json
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\bin\Debug\net6.0\Dados_Produto.runtimeconfig.json
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\bin\Debug\net6.0\Dados_Produto.dll
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\bin\Debug\net6.0\Dados_Produto.pdb
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.dll
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\refint\Dados_Produto.dll
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.pdb
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\Dados_Produto.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Dados_Produto\Dados_Produto\obj\Debug\net6.0\ref\Dados_Produto.dll
