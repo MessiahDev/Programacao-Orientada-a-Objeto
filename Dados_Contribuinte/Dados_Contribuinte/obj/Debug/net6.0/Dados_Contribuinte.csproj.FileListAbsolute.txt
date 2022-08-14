@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\bin\Debug\net6.0\Dados_Contribuinte.exe
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\bin\Debug\net6.0\Dados_Contribuinte.deps.json
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\bin\Debug\net6.0\Dados_Contribuinte.runtimeconfig.json
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\bin\Debug\net6.0\Dados_Contribuinte.dll
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\bin\Debug\net6.0\Dados_Contribuinte.pdb
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.dll
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\refint\Dados_Contribuinte.dll
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.pdb
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\Dados_Contribuinte.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Dados_Contribuinte\Dados_Contribuinte\obj\Debug\net6.0\ref\Dados_Contribuinte.dll
