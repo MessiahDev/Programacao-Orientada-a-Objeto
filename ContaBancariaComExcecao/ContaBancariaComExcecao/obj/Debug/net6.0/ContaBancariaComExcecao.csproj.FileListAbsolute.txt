@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\bin\Debug\net6.0\ContaBancariaComExcecao.exe
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\bin\Debug\net6.0\ContaBancariaComExcecao.deps.json
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\bin\Debug\net6.0\ContaBancariaComExcecao.runtimeconfig.json
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\bin\Debug\net6.0\ContaBancariaComExcecao.dll
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\bin\Debug\net6.0\ContaBancariaComExcecao.pdb
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.AssemblyInfo.cs
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.dll
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\refint\ContaBancariaComExcecao.dll
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.pdb
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ContaBancariaComExcecao.genruntimeconfig.cache
+C:\Users\alexm\source\repos\ContaBancariaComExcecao\ContaBancariaComExcecao\obj\Debug\net6.0\ref\ContaBancariaComExcecao.dll
